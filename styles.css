@@ -1,0 +1,28 @@
+
+.header{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.header-logo{
+    width: 100px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.nav-list{
+    display: flex;
+   
+    text-decoration: none;
+    
+}
+
+.list{
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+}
